@@ -19,6 +19,8 @@ git clone https://github.com/SwapnaVadaram/RewardsCalculator.git -b master
 Go to project folder and open command prompt
 Build project using command "mvn clean install" to download dependencies
 Run the service using the command "java -jar rewardscalculator-0.0.1-SNAPSHOT.jar"
+Port given in application.properties is 65003 for ex : http://localhost:65003/pointscalculator/customer/1
+
 
 
 
